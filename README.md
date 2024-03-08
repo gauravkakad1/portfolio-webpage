@@ -2,7 +2,7 @@
 ## This is not my Actual real portfoilio just a project website
 
 A web application which is useful for management of food donation and collection activities.  
-[View Demo]([https://food-aid.onrender.com/](https://gauravkakad1.github.io/portfilio-webpage/))
+[View Demo] https://gauravkakad1.github.io/portfilio-webpage/
 
 
 ## Table of Contents
